@@ -6,7 +6,7 @@ var APPLE_QUANTITY = 5;
 if (APPLE_QUANTITY < 5){
   console.log("i have a pen... i have an apple.... uuughh .");
 } else {
-  console.log("You have 5 or more apples. Hurrah!");
+  console.log("You have 6 or more apples. Hurrah!");
 }
 
 // 2. Write a "for" loop
